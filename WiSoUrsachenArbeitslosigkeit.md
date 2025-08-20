@@ -19,4 +19,6 @@
 - **Merkmale:** Langfristiges Problem  
 - **Ursachen:** Ungleichgewicht auf Teilarbeitsmärkten zwischen angebotenen und nachgefragten Arbeitsleistungen: Änderungen der Arbeitsplatz-, beruflicher, sektoraler und regionaler Strukturen, mangelnde Flexibilität am Arbeitsmarkt  
 
+---
+
 - **Bekämpfung:** Förderung der Mobilität der Arbeitskräfte, Industrieansiedlung, Anpassungsfähige Bildung und Ausbildung, Ausbau der Infrastruktur, überbetriebliche Löhne, flexible Arbeitszeiten, technischer Fortschritt, Innovationen  
