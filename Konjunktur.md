@@ -1,7 +1,7 @@
 # Konjunktur
 
-- Im wirtschaftlichen Sinn bedeutet Konjunktur den aktuellen Zustand bzw. Verlauf der gesamtwirtschaftlichen Lage eines Landes.
-Man meint damit, wie „gut“ oder „schlecht“ die Wirtschaft gerade läuft – also ob viel produziert, gehandelt, investiert und konsumiert wird oder eher wenig.
+- Im wirtschaftlichen Sinne bedeutet Konjunktur den aktuellen Zustand bzw. Verlauf der gesamtwirtschaftlichen Lage eines Landes.
+Man meint damit, wie „gut“ oder „schlecht“ die Wirtschaft gerade läuft, also ob viel produziert, gehandelt, investiert und konsumiert wird oder eher wenig.
 
 ## Wirtschaftsschwankungen
 
@@ -44,4 +44,5 @@ Man meint damit, wie „gut“ oder „schlecht“ die Wirtschaft gerade läuft 
 
 - **Konjunkturprognose:**  
   - Vorhersage der künftigen konjunkturellen Entwicklung  
+
   - Basis der Konjunkturpolitik
