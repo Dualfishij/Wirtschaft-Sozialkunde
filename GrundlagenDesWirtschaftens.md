@@ -6,6 +6,8 @@
 - Boden: *Anbauboden -Land, -Energie, -Verkehr*
 - Kapital: *Geldkapital (Finanzielle Mittel u. Beschaffung v. Sachkapital) -> Sachkapital: Dauerhafte u. nicht dauerhafte Produktionsmittel*
 
+---
+
 ### Güter
 
 - Freie Güter: *Sonnenlicht, Luft*
@@ -13,6 +15,8 @@
 - teure Ressourcen/Naturstoffe
 - in ungleicher menge je nach Region vorhanden
 - aufwendige Ressourcenbeschaffung
+
+---
 
 #### Nur die Knappen Güter sind Gegenstand des Wirtschaftens. Man nennt sie deshalb Wirtschaftsgüter. 
 
@@ -23,3 +27,4 @@
 - Nachfragemonopol: Bundesmarine kauft Kriegsschiffe v. mehreren Herstellern
 - Angebotsoligopol: wenige Tankstellen, viele Autofahrer
 - Polypol: auf beiden Seiten viele Anbieter bzw. beim Lebensmittelkauf
+
