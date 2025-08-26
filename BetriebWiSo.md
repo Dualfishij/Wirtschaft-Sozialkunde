@@ -38,3 +38,7 @@
 - Lizenzen
 - Gebrauchsmuster
 - Markenzeichen
+
+## Extra
+- Betrieb = ort der Leistungserstellung
+- Firma = Name des Kaufmanns
