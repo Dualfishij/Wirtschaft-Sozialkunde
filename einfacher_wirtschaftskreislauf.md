@@ -1,4 +1,4 @@
-G# Einfacher Wirtschaftskreislauf
+# Einfacher Wirtschaftskreislauf
 
 Im einfachen Wirtschaftskreislauf treten nur **Unternehmen** und **Haushalte** auf.  
 Beide können sowohl Anbieter als auch Nachfrager sein.
