@@ -1,4 +1,4 @@
-P# Erweiterter Wirtschaftskreislauf
+# Erweiterter Wirtschaftskreislauf
 
 Im erweiterten Wirtschaftskreislauf treten zusätzlich zu **Unternehmen** und **Haushalten** auch  
 **Staat**, **Kapitalsammelstellen** (z. B. Banken, Versicherungen) und das **Ausland** auf.
